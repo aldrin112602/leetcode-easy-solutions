@@ -14,5 +14,6 @@ This repository contains solutions to various coding challenges I solved. Each p
 4. **Reverse a String**
 5. **Find the Maximum Number**
 6. **Check for Palindrome**
+7. **Remove Duplicates from a List or Array**
 
 Feel free to explore the code and use it as a reference. Contributions are welcome!
